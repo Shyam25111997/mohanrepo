@@ -15,7 +15,11 @@ public class Application {
 		
 			System.out.println(eachItem);
 		}
+		
+		Book java = new Book(102,"Learn Java in 15days");
+		System.out.println(java);
 
 	}
-
+	
+	
 }
